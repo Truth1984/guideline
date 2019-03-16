@@ -112,6 +112,35 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
         }
         return new Array(result);
     }
+    
+    // order array     
+    var = orderWords = (ori_array)=>{
+        // var ele = document.getElementById("words");
+        // var ori_str = ele.textContent;
+        // var ori_array = ori_str.split(" ");
+        var words_array = [];
+        for (i = 0; i < ori_array.length; i++) {
+          if (ori_array[i].length > 2) {
+            if (words_array.indexOf(ori_array[i].toLowerCase()) == -1) {
+              words_array.push(ori_array[i].toLowerCase());
+            } else {
+              delete ori_array[i];
+              console.log(i);
+            }
+          } else {
+            delete ori_array[i];
+          }
+        }
+        words_array.sort();
+        ori_array.sort();
+        for (i = 0; i < ori_array.length; i++) {
+          if (words_array.indexOf(ori_array[i]) == -1 && ori_array[i]) {
+            indextemp = words_array.indexOf(ori_array[i].toLowerCase());
+            words_array[indextemp] = ori_array[i];
+          }
+        }
+        console.log(ori_array.sort());
+      }
 
 #### If1
 
