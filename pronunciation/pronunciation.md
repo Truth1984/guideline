@@ -1,5 +1,5 @@
-abort
-
+abort   中止、中断
+ 
 accept
 
 address
