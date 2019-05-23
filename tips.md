@@ -5,3 +5,7 @@
 ## reactjs
 
 `https://www.youtube.com/watch?v=xa-_FIy2NgE`
+
+## No media for responsive css.
+
+`https://www.youtube.com/watch?v=bam83Xv4VMA`
