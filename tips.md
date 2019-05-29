@@ -9,3 +9,7 @@
 ## No media for responsive css.
 
 `https://www.youtube.com/watch?v=bam83Xv4VMA`
+
+## CSRF
+
+`https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints`
