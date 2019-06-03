@@ -13,3 +13,7 @@
 ## CSRF
 
 `https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints`
+
+## Linux file structure
+
+`https://www.youtube.com/watch?v=HbgzrKJvDRw`
