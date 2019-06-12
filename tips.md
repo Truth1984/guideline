@@ -17,3 +17,8 @@
 ## Linux file structure
 
 `https://www.youtube.com/watch?v=HbgzrKJvDRw`
+
+## Nosql: redis vs mongodb
+
+`https://db-engines.com/en/system/MongoDB%3BRedis`
+`https://scalegrid.io/blog/comparing-in-memory-databases-redis-vs-mongodb-percona-memory-engine/`
