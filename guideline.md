@@ -34,7 +34,7 @@ go to vscode extension and install:
 
 `JavaScript (ES6) code snippets`
 
-`Mobx/Rematch React Snippets`
+`Material Icon theme`
 
 `Node.js Modules Intellisense`
 
@@ -52,7 +52,7 @@ go to vscode extension and install:
 
 `StandardJS - JavaScript Standard Style`
 
-`Visual Studio IntelliCode - Preview`
+`Visual Studio IntelliCode`
 
 go to file -> preference -> settings
 search for `FORMAT ON SAVE` and select this option
