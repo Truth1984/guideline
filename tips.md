@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=HbgzrKJvDRw
 https://db-engines.com/en/system/MongoDB%3BRedis
 
 https://scalegrid.io/blog/comparing-in-memory-databases-redis-vs-mongodb-percona-memory-engine/
+
+## Algorithm
+
+https://github.com/trekhleb/javascript-algorithms
