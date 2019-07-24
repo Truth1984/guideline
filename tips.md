@@ -31,3 +31,7 @@ https://scalegrid.io/blog/comparing-in-memory-databases-redis-vs-mongodb-percona
 ## Algorithm
 
 https://github.com/trekhleb/javascript-algorithms
+
+## Writing memory efficient software applications
+
+https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
