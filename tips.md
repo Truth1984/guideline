@@ -39,3 +39,7 @@ https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-no
 ## sqlite vs mysql vs postgresql
 
 https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+
+## performance tips for MySQL
+
+https://www.infoworld.com/article/3210905/10-essential-performance-tips-for-mysql.html
