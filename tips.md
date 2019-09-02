@@ -35,3 +35,7 @@ https://github.com/trekhleb/javascript-algorithms
 ## Writing memory efficient software applications
 
 https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
+
+## sqlite vs mysql vs postgresql
+
+https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
