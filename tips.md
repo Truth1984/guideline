@@ -43,3 +43,7 @@ https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a
 ## performance tips for MySQL
 
 https://www.infoworld.com/article/3210905/10-essential-performance-tips-for-mysql.html
+
+## Faster apps with JSON.parse
+
+https://www.youtube.com/watch?v=ff4fgQxPaO0
