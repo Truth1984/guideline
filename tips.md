@@ -51,3 +51,7 @@ https://www.youtube.com/watch?v=ff4fgQxPaO0
 ## Broken Promises
 
 https://www.youtube.com/watch?v=e3Nh350b6S4
+
+## Redis master - slave
+
+https://redis.io/topics/replication
