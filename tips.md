@@ -55,3 +55,7 @@ https://www.youtube.com/watch?v=e3Nh350b6S4
 ## Redis master - slave
 
 https://redis.io/topics/replication
+
+## Chat DB - KKV
+
+https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
